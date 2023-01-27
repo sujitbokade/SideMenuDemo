@@ -29,7 +29,6 @@ case Logout
         case .Logout:
             return "LogOut"
         }
-        
     }
     var image: UIImage {
         switch self {
